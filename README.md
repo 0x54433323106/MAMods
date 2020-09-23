@@ -19,7 +19,7 @@ So the minimal requirements are Windows 10 with MSVC++ versions 2019 and above.
 - Load up to 20 custom crosshairs
 - Custom crosshair for each weapon
 <br>
-![Image](https://cdn.discordapp.com/attachments/596698457532792833/758177836291981322/ezgif-6-2b1d417fa8b3.gif)
+<img src="/Readme/preview.gif?raw=true">
 
 ### Getting started
  1. Download and extract the [latest release]() from the [Release](/Release) folder which contains everything you need to run the mod.
