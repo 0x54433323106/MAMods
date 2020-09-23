@@ -18,13 +18,15 @@ So the minimal requirements are Windows 10 with MSVC++ versions 2019 and above.
 - Hide in game crosshair
 - Load up to 20 custom crosshairs
 - Custom crosshair for each weapon
+<br>
+![Image](https://cdn.discordapp.com/attachments/596698457532792833/758177836291981322/ezgif-6-2b1d417fa8b3.gif)
 
 ### Getting started
  1. Download and extract the [latest release]() from the [Release](/Release) folder which contains everything you need to run the mod.
  2. Run Midair.
  3. Alt+Tab out of Midair and then run **midair.bat** from the extracted release file. A console window should appear for Midair with some basic print out.<br>
 ![Image](https://cdn.discordapp.com/attachments/596698457532792833/758148212657225758/successful_inject.png)
- 4. Enter back into Midair and press the **INSERT key** to toggle the mod menu. You can now interact with the menu using your mourse to turn features on or off.<br>
+ 4. Enter back into Midair and press the **INSERT key** to toggle the mod menu. You can now interact with the menu using your mouse to turn features on or off.<br>
 ![Image](https://cdn.discordapp.com/attachments/596698457532792833/758148089789284372/unknown.png)
 
 ### How to use custom crosshairs
